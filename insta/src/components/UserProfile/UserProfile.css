@@ -1,0 +1,23 @@
+.main{
+    max-width:550px;
+    margin:0px auto;
+}
+
+.sec{
+    display:flex;
+    justify-content:space-around;
+    margin:18px 0px;
+    border-bottom:1px solid grey
+}
+
+img{
+    width:160px;
+    height:160px;
+    border-radius:80px;
+}
+
+.user-details{
+    display: flex;
+    justify-content:space-between;
+    width:108%;
+}

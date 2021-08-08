@@ -20,7 +20,7 @@ _See, Life is too big to be a alone._
 ***
 1.SIGNUP for new Users:
 * If the user visits "memories" for the first time. He/She has to login using its email id.
-![signup view](https://i.ibb.co/6Y0zLmq/Screenshot-87.png)
+![signup view](https://res.cloudinary.com/test-cloud-by-kaush/image/upload/v1620016794/Screenshot_87_pmiuxs.png)
 
 2.Login view:
 * Existing User can log in using their credentials.

@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+
+body{
+  background-color: rgb(2, 1, 58);
+}
+
+.insta-font{
+  font-family: "Train One","cursive";
+  background: linear-gradient(to right rgb(250, 63, 94),pink);
+}
+
+a{
+  color:black !important; 
+}
+
+.myCard{
+  margin-top:30px;
+}
+
+.auth-card{
+  padding:20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
+
+}
+
+.input-field input[type=text].valid {
+  border-bottom: 1px solid red !important;
+  box-shadow: 0 1px 0 0 red !important;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+
+}
+
+.item{
+  height: 175px;
+  width:150px;
+}
+
+.home-card{
+  max-width: 500px;
+  height:max-content;
+  margin:26px auto
+}
+
+#toast-container{
+  top:30px;
+  right:20px;
+  left:auto !important;
+
+}
+
+.alert-toast{
+  background-color: red !important;
+}
+
+.success-toast{
+
+  background-color: rgb(131, 245, 131) !important;
+
+}
+
+.material-icons:hover{
+  cursor: pointer;
+}
